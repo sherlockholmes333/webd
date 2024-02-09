@@ -228,6 +228,8 @@ h2{
     padding: 20px; 
     margin-bottom: 10px; 
     border-style:outset;
+    box-shadow:5px 5px #e7dddd;
+    overflow: hidden;
 }
 .blog img {
     text-align: center;
